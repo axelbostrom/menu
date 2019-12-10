@@ -1,8 +1,6 @@
 package lab6;
 
 import java.util.*;
-import java.io.*;
-
 
 public class Menu implements MenuItem {
     /**
